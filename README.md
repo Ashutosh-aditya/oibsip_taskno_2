@@ -5,12 +5,12 @@ This repository contains a portfolio website with four webpages: `index.html`, `
 
 ## Deployed Website
 
-You can access the deployed portfolio website at the following link:
+You can access the deployed portfolio website at the following link : 
 [Portfolio Website](https://ashutosh-aditya.github.io/oibsip_taskno_2/)
 
 ## Index Page (`index.html`)
+![portfolio](https://github.com/Ashutosh-aditya/oibsip_taskno_2/assets/78680582/8860f945-ee95-4709-b5ae-41054655403e)
 
-![Ashutosh Aditya](img/1.jpg)
 
 This is the homepage of the portfolio website, featuring the author, Ashutosh Aditya. It includes the following sections:
 
@@ -19,8 +19,8 @@ This is the homepage of the portfolio website, featuring the author, Ashutosh Ad
 - **About:** A brief description of the author's background, achievements, and aspirations.
 
 ## Project Page (`project.html`)
-
-![E-Commerce Website](img/4.png)
+![portfolio2](https://github.com/Ashutosh-aditya/oibsip_taskno_2/assets/78680582/0365a0e0-7f4a-43df-b652-cbabd9c4b8b2)
+![portfolio3](https://github.com/Ashutosh-aditya/oibsip_taskno_2/assets/78680582/454523a6-8fde-471b-9327-33bba5ecdc39)
 
 This webpage showcases a project titled "E-Commerce Website." It provides information about the project, including:
 
@@ -30,8 +30,8 @@ This webpage showcases a project titled "E-Commerce Website." It provides inform
 - **GitHub Repository:** A link to the project's GitHub repository for further exploration.
 
 ## Article Page (`article.html`)
+![portfolio1](https://github.com/Ashutosh-aditya/oibsip_taskno_2/assets/78680582/97b3fafb-c877-4cf6-a267-8713038b0236)
 
-![Article](img/2.jpg)
 
 This webpage presents two articles:
 
@@ -46,6 +46,7 @@ This webpage presents two articles:
 - **Image:** Another relevant image.
 
 ## Contact Page (`contact.html`)
+![portfolio4](https://github.com/Ashutosh-aditya/oibsip_taskno_2/assets/78680582/21646deb-434c-4295-beec-5adb9a41fc2f)
 
 This webpage provides contact information for Ashutosh Aditya, including:
 
@@ -66,6 +67,3 @@ The website is styled using CSS to provide a clean and user-friendly interface. 
 The project details on the "Project" page and the articles on the "Article" page have "Show More" buttons to reveal additional information when clicked. This interactivity is achieved using JavaScript.
 
 Feel free to explore the different webpages to learn more about Ashutosh Aditya's work and skills.
-
-This README provides an overview of the portfolio website, and you can access the deployed site by following the link provided above.
-
